@@ -20,6 +20,7 @@ The Ecommerce Dashboard is built to streamline the management of online store op
 ## 🧪 Phase 1: Time-Based Analysis
 
 The first phase of the project focused on analyzing performance over time. Here's what was implemented:
+
 ![Dashboard Screenshot](./images/time.png)
 
 ### 📊 KPI Cards
@@ -47,6 +48,33 @@ The first phase of the project focused on analyzing performance over time. Here'
   - Country
   - Specific year and month
 - Enabled users to drill down into more detailed, contextual insights
+
+## 🧩 Phase 2: Customer & Product Analysis
+
+This phase focused on understanding product performance and customer behavior.
+
+
+![Dashboard Screenshot](./images/c&p.png)
+### 🛍️ Product Analysis
+
+- Identified the most profitable products
+- Tracked:
+  - Total units sold
+  - Unsold inventory
+  - Overall stock levels
+- Analyzed top-selling products by:
+  - 🎨 **Color**: Determined which colors performed best in sales
+  - 💰 **Price Type**: Compared high-priced vs. low-priced product performance
+
+### 👥 Customer Analysis
+
+- Visualized top customers by total profit contribution
+- Analyzed customer demographics:
+  - 📊 Average age
+  - 🚻 Gender distribution
+- Identified the most profitable customer segments based on age and gender groups
+
+---
 
 
 ## 🛠 Installation
