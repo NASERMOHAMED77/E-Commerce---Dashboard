@@ -20,7 +20,7 @@ The Ecommerce Dashboard is built to streamline the management of online store op
 ## 🧪 Phase 1: Time-Based Analysis
 
 The first phase of the project focused on analyzing performance over time. Here's what was implemented:
-![Dashboard Screenshot](./images/dashboard.png)
+![Dashboard Screenshot](./images/time.png)
 
 ### 📊 KPI Cards
 
